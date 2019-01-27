@@ -1,6 +1,6 @@
 # Join us via IRC
 
-<a href="irc://freenode.org:6667/#ewindow">irc://freenode.org:6667/#ewindow</a>
+<a href="irc://chat.freenode.net:6667/#ewindow">irc://chat.freenode.net:6667/#ewindow</a>
 
 
 # Join us via Matrix
