@@ -36,3 +36,21 @@ ___
 
 <b>Mentor:</b> strfry, zoff
 
+___
+### Improve User Experience in the Android Client (TRIfA)
+<b>Brief Explanation:</b>
+Since TRIfA [https://github.com/zoff99/ToxAndroidRefImpl] is not the main Android Client for Tox,
+we would really like to improve the User Experience with this Application.
+
+<b>Expected Results:</b>
+- Add Hardware Accelerated Video Encoding Support
+- Cleanup the Source Code
+- Remove Duplication in the Source as much as possible
+- Write Tests for the Android App
+- Implement the most asked for missing features: Ringtone Support and Export/Import Function
+
+<b>Knowledge Prerequisite:</b> Experience with Java, Knowledge about Android
+
+<b>Difficulty:</b> Hard
+
+<b>Mentor:</b> zoff
