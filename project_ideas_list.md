@@ -71,7 +71,8 @@ ___
 <b>Brief Explanation:</b>
 Since TRIfA [https://github.com/zoff99/ToxAndroidRefImpl] is now the main Android Client for Tox,
 we would really like to improve the User Experience with this Application.<br>
-The Android Application was created in one Weekend (almost by accident, see our talk at ToxCon 2018 [https://github.com/zoff99/ToxCon2018/blob/master/slides/zoff_echobot_to_trifa.pdf Slides])
+The Android Application was created in one Weekend (almost by accident, see our talk at ToxCon 2018
+[Slides](https://github.com/zoff99/ToxCon2018/blob/master/slides/zoff_echobot_to_trifa.pdf))
 and it works very stable and great.<br>
 But we want even more.<br>
 Users have been asking for some features that they are missing from the Application.<br>
