@@ -39,7 +39,7 @@ ___
 ___
 ### Improve User Experience in the Android Client (TRIfA)
 <b>Brief Explanation:</b>
-Since TRIfA [https://github.com/zoff99/ToxAndroidRefImpl] is not the main Android Client for Tox,
+Since TRIfA [https://github.com/zoff99/ToxAndroidRefImpl] is now the main Android Client for Tox,
 we would really like to improve the User Experience with this Application.
 
 <b>Expected Results:</b>
