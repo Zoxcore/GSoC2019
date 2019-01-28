@@ -4,6 +4,7 @@
 
 Link: <a href="https://github.com/Zoxcore/ToxBlinkenwall">https://github.com/Zoxcore/ToxBlinkenwall</a>
 
+___
 #### Code Cleanup and Stability
 
 <b>Brief Explanation:</b>
@@ -19,7 +20,7 @@ Link: <a href="https://github.com/Zoxcore/ToxBlinkenwall">https://github.com/Zox
 
 <b>Mentor:</b> strfry
 
-
+___
 #### VideoConference (Video Call with more than 2 participants)
 
 <b>Brief Explanation:</b>
