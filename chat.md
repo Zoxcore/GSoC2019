@@ -1,8 +1,15 @@
-# Join us via IRC
+# Getting in Contact with us
 
-<a href="irc://chat.freenode.net:6667/#ewindow">irc://chat.freenode.net:6667/#ewindow</a>
+### Join us via IRC
 
+The IRC Channel is on the Freenode network. click the link below to join:
 
-# Join us via Matrix
+<a href="https://webchat.freenode.net/?channels=#ewindow">irc://chat.freenode.net/ewindow</a>
+
+### Join us via Matrix
+
+You can also use Matrix to connect to our IRC channel (via the Matrix IRC bridge):
 
 <a href="https://matrix.to/#/#freenode_#ewindow:matrix.org">https://matrix.to/#/#freenode_#ewindow:matrix.org</a>
+
+
