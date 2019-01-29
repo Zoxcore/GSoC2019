@@ -1,6 +1,6 @@
 # GSoC 2019 Ideas
 
-### ToxBlinkenwall (eWindow)
+### ToxBlinkenwall (eWindow) - Overwiew
 
 Link: <a href="https://github.com/Zoxcore/ToxBlinkenwall">https://github.com/Zoxcore/ToxBlinkenwall</a>
 
