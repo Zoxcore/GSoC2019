@@ -90,3 +90,26 @@ Users have been asking for some features that they are missing from the Applicat
 
 <b>Mentor:</b> zoff
 
+___
+### Build Lightweight Bootable Live Image of ToxBlinkenWall
+<b>Brief Explanation:</b>
+An interesting usecase for ToxBlinkenwall is to take an old laptop and repurpose it into a dedicated Videochat station.
+For this we need a live-booting USB image with the ToxBlinkenwall software on it.
+Ideally it would be based on a light-weight linux distribution, like Alpine Linux.
+
+<b>Expected Results:</b>
+- Bootable Image for x86 with 
+- CI flow to create updated images
+- Auto-Configuration OR setup dialogs for various hardware configurations
+- Implement persistent storage methods to retain keys and connections
+- Implement update mechanism, or self-hosting build capability
+
+
+<b>Knowledge Prerequisite:</b> Experience with Distro packaging, Linux boot process, Shell Scripting
+
+<b>Difficulty:</b> Medium
+
+<b>Mentor:</b> strfry
+
+___
+###
