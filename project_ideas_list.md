@@ -62,7 +62,7 @@ and handle multiple Audio PCM streams incoming.<br>
 
 <b>Knowledge Prerequisite:</b> Experience with C, Knowledge about PCM Audio, Experience with Video Codecs
 
-<b>Difficulty:</b> Hard
+<b>Difficulty:</b> Medium
 
 <b>Mentor:</b> strfry, zoff
 
@@ -91,7 +91,7 @@ Users have been asking for some features that they are missing from the Applicat
 <b>Mentor:</b> zoff
 
 ___
-### Build Lightweight Bootable Live Image of ToxBlinkenWall
+### Build Lightweight Bootable Live Image of ToxBlinkenwall
 <b>Brief Explanation:</b>
 An interesting usecase for ToxBlinkenwall is to take an old laptop and repurpose it into a dedicated Videochat station.
 For this we need a live-booting USB image with the ToxBlinkenwall software on it.
