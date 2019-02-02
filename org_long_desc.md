@@ -8,3 +8,8 @@ Hardware Acceleration as much as possible (on the Raspberry PI for example).
 
 As we are closely working together with the Tox Community (being a part of it ourselves), and new Features will
 be merged upstream back to Tox. and vice versa.
+
+The idea for a system for collaborative workspaces existed for some time, and began to take real form in 2016 with the eWindow Project.
+In 2017, the ToxBlinkenwall project was created, and now provides the technological base to implement this idea.
+
+The ToxBlinkenwall and eWindow Projects have joined forces to create a better user experience and realize our future vision.
