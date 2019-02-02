@@ -53,7 +53,7 @@ This currently can only be done by rotating the camera, and living with distorte
 To solve this, the communication protocol must be enhanced to signify the peers display orientation, so that the endpoints can rotate the image accordingly.
 
 <b>Expected Results:</b>
-- ToxBlinkenwall/eWindow can be used in both landscape and portrait mode
+- ToxBlinkenwall can be used in both landscape and portrait mode
 - UI elements are appropriately drawn
 - Participants of different display orientations can call each other
 
@@ -88,9 +88,9 @@ Users have been asking for some features that they are missing from the Applicat
 <b>Mentor:</b> zoff
 
 ___
-### Build Lightweight Bootable Live Image of ToxBlinkenwall
+### Build Lightweight Bootable Live Image of ToxBlinkenwall (eWindow)
 <b>Brief Explanation:</b>
-An interesting usecase for ToxBlinkenwall is to take an old laptop and repurpose it into a dedicated Videochat station.
+An interesting usecase for ToxBlinkenwall (eWindow) is to take an old laptop and repurpose it into a dedicated Videochat station.
 For this we need a live-booting USB image with the ToxBlinkenwall software on it.
 Ideally it would be based on a light-weight linux distribution, like Alpine Linux.
 
@@ -113,7 +113,7 @@ ___
 ### Code Cleanup and Stability
 
 <b>Brief Explanation:</b>
-The Source Code for ToxBlinkenwall has evolved over the years, by quickly implementing features and ideas and
+The Source Code for ToxBlinkenwall (eWindow) has evolved over the years, by quickly implementing features and ideas and
 testing them out.<br>
 This Process was great for fast progress, yet not so great for a clear and structured code base.<br>
 We want to clean the Code, and fix some of the most common mistakes made.<br>
