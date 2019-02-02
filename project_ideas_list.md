@@ -21,28 +21,6 @@ Our current Hardware focuses on the Raspberry Pi (since it's easy to obtain in m
 and the Android platform (as it is very flexible and readily available).
 
 ___
-### Code Cleanup and Stability
-
-<b>Brief Explanation:</b>
-The Source Code for ToxBlinkenwall has evolved over the years, by quickly implementing features and ideas and
-testing them out.<br>
-This Process was great for fast progress, yet not so great for a clear and structured code base.<br>
-We want to clean the Code, and fix some of the most common mistakes made.<br>
-
-<b>Expected Results:</b>
-- C Code is purged of unused functions and variables
-- Most Common Bugs (SEGV) fixed
-- Most Common Causes for Crashes fixed
-- Write Documentation for Test Cases
-- Create Code Test and/or Unit tests
-
-<b>Knowledge Prerequisite:</b> Experience with C, Knowledge about Debugging (and Debugger Tools)
-
-<b>Difficulty:</b> Easy
-
-<b>Mentor:</b> strfry
-
-___
 ### VideoConference (Video Call with more than 2 participants)
 
 <b>Brief Explanation:</b>
@@ -57,10 +35,29 @@ and handle multiple Audio PCM streams incoming.<br>
 - 3 or more clients can video (including audio) call each other
 - all incoming video streams are displayed optimally on the available screen
 - all incoming audio streams are mixed properly, resulting in a natural sound output
-- handle different aspect ratios on the Display Device of each participant
-- handle different orientation of the Display Device of each participant
 
 <b>Knowledge Prerequisite:</b> Experience with C, Knowledge about PCM Audio, Experience with Video Codecs
+
+<b>Difficulty:</b> Medium
+
+<b>Mentor:</b> strfry, zoff
+
+___
+### Rotational Diversity: Introduce Portrait-Mode Video
+
+
+<b>Brief Explanation:</b>
+Toxblinkenwall currently assumes a default "wide" display configuration, like 4:3 or 16:9 aspect ratio.
+From a design point of view, some users prefere a upstanding, "portrait-mode" aspect ratio.
+This currently can only be done by rotating the camera, and living with distorted UI elements.<br>
+To solve this, the communication protocol must be enhanced to signify the peers display orientation, so that the endpoints can rotate the image accordingly.
+
+<b>Expected Results:</b>
+- ToxBlinkenwall/eWindow can be used in both landscape and portrait mode
+- UI elements are appropriately drawn
+- Participants of different display orientations can call each other
+
+<b>Knowledge Prerequisite:</b> Experience with C, Experience with graphics programming
 
 <b>Difficulty:</b> Medium
 
@@ -110,6 +107,30 @@ Ideally it would be based on a light-weight linux distribution, like Alpine Linu
 <b>Difficulty:</b> Medium
 
 <b>Mentor:</b> strfry
+
+
+___
+### Code Cleanup and Stability
+
+<b>Brief Explanation:</b>
+The Source Code for ToxBlinkenwall has evolved over the years, by quickly implementing features and ideas and
+testing them out.<br>
+This Process was great for fast progress, yet not so great for a clear and structured code base.<br>
+We want to clean the Code, and fix some of the most common mistakes made.<br>
+
+<b>Expected Results:</b>
+- C Code is purged of unused functions and variables
+- Most Common Bugs (SEGV) fixed
+- Most Common Causes for Crashes fixed
+- Write Documentation for Test Cases
+- Create Code Test and/or Unit tests
+
+<b>Knowledge Prerequisite:</b> Experience with C, Knowledge about Debugging (and Debugger Tools)
+
+<b>Difficulty:</b> Easy
+
+<b>Mentor:</b> strfry
+
 
 ___
 ###
