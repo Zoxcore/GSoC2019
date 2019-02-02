@@ -8,6 +8,7 @@ We are focusing on ease of use, and low cost readily available Hardware and Vide
 As we are closely working together with the Tox Community (being a part of it ourselves), and new Features will be merged upstream back to Tox. and vice versa.
 
 The idea for a system for collaborative workspaces existed for some time, and began to take real form in 2016 with the [eWindow](https://ewindow.org) Project.
+
 In 2017, the ToxBlinkenwall project was created, and now provides the technological base to implement this idea.
 
 The ToxBlinkenwall and eWindow Projects have joined forces to create a better user experience and realize our future vision.
