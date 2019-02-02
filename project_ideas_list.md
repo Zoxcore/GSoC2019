@@ -48,18 +48,18 @@ ___
 
 <b>Brief Explanation:</b>
 Toxblinkenwall currently assumes a default "wide" display configuration, like 4:3 or 16:9 aspect ratio.
-From a design point of view, some users prefere a upstanding, "portrait-mode" aspect ratio.
+From a design point of view, some users prefere an upright, "portrait-mode" aspect ratio.
 This currently can only be done by rotating the camera, and living with distorted UI elements.<br>
-To solve this, the communication protocol must be enhanced to signify the peers display orientation, so that the endpoints can rotate the image accordingly.
+To solve this, the communication protocol must be enhanced to negotiate the peers display and camera orientation, so that the endpoints can rotate the video and UI elements accordingly.
 
 <b>Expected Results:</b>
 - ToxBlinkenwall can be used in both landscape and portrait mode
-- UI elements are appropriately drawn
-- Participants of different display orientations can call each other
+- UI elements are drawn correctly
+- Participants can have different display and camera orientations
 
 <b>Knowledge Prerequisite:</b> Experience with C, Experience with graphics programming
 
-<b>Difficulty:</b> Medium
+<b>Difficulty:</b> Easy
 
 <b>Mentor:</b> strfry, zoff
 
