@@ -8,5 +8,6 @@ talk to us and also to develop and test any new Code right on that system.
 
 although the above is not mandatory, it will be great fun and make communication so much more natural.
 otherwise just apply per Email or join us on our IRC / Matrix Channel.
+[Get in contact with us](https://github.com/Zoxcore/GSoC2019/blob/master/chat.md)
 
-and don't forget, have fun!
+And don't forget to have fun!
