@@ -8,13 +8,13 @@ ToxBlinkenwall (eWindow) is an effort to develop Software and Hardware to provid
 easy to use and secure System to have Video Conferences anywhere in the world.<br>
 The Main Component is Tox.<br>
 ToxBlinkenwall (eWindow) utilizes Tox (c-toxcore: <a href="https://toktok.ltd/index.html">https://toktok.ltd/index.html</a>)
-as the library to handle all encryption and sending and receiving of data.<br>
+as the library to handle all encryption and the sending and receiving of data.<br>
 Tox is an open source, distributed, peer-to-peer and end-to-end encrypted network library.<br>
 
 ToxBlinkenwall (eWindow) builds upon Tox to give Videocalls and Videoconferencing to users and small companies.<br>
 We are developing better and smoother Video and Audio transmission and also getting Hardware acceleration support
-for some devices. All this while still staying distributed, without centralized Servers, and also as
-little 3rd party libraries as possible (no WebRTC).<br>
+for some devices. All this while still staying distributed, without centralized Servers, and also using as
+little in the way of 3rd party libraries as possible (no WebRTC).<br>
 This makes the code small and easy to compile on many different platforms.<br>
 
 Our current Hardware focuses on the Raspberry Pi (since it's easy to obtain in many places and also cheap)
@@ -26,17 +26,17 @@ ___
 <b>Brief Explanation:</b>
 Toxblinkenwall can handle 1-on-1 Video calls in 720p and 1080p at 25fps.<br>
 This pushes the Hardware and Software of the Raspberry PI to the limit.<br>
-But we are envisioning even more, we want to be able to Videocall with more than 2 parties at the
+But we are envisioning even more: we want to be able to Videocall with more than 2 parties at the
 same time.<br>
 The idea is to implement a way to show 3 or maybe even more Video Feeds on 1 Display Device,
-and handle multiple Audio PCM streams incoming.<br>
+and handle multiple incoming Audio PCM streams.<br>
 
 <b>Expected Results:</b>
-- 3 or more clients can video (including audio) call each other
+- 3 or more clients can video call (including audio) each other
 - all incoming video streams are displayed optimally on the available screen
 - all incoming audio streams are mixed properly, resulting in a natural sound output
 
-<b>Knowledge Prerequisite:</b> Experience with C, Knowledge about PCM Audio, Experience with Video Codecs
+<b>Knowledge Prerequisites:</b> Experience with C, Knowledge about PCM Audio, Experience with Video Codecs
 
 <b>Difficulty:</b> Medium
 
@@ -48,7 +48,7 @@ ___
 
 <b>Brief Explanation:</b>
 Toxblinkenwall currently assumes a default "wide" display configuration, like 4:3 or 16:9 aspect ratio.
-From a design point of view, some users prefere an upright, "portrait-mode" aspect ratio.
+From a design point of view, some users prefer an upright, "portrait-mode" aspect ratio.
 This currently can only be done by rotating the camera, and living with distorted UI elements.<br>
 To solve this, the communication protocol must be enhanced to negotiate the peers display and camera orientation, so that the endpoints can rotate the video and UI elements accordingly.
 
@@ -57,7 +57,7 @@ To solve this, the communication protocol must be enhanced to negotiate the peer
 - UI elements are drawn correctly
 - Participants can have different display and camera orientations
 
-<b>Knowledge Prerequisite:</b> Experience with C, Experience with graphics programming
+<b>Knowledge Prerequisites:</b> Experience with C, Experience with graphics programming
 
 <b>Difficulty:</b> Easy
 
@@ -81,7 +81,7 @@ Users have been asking for some features that they are missing from the Applicat
 - Write Tests for the Android App
 - Implement the most asked for missing features: Ringtone Support and Export/Import Data Function
 
-<b>Knowledge Prerequisite:</b> Experience with Java, Knowledge about Android
+<b>Knowledge Prerequisites:</b> Experience with Java, Knowledge about Android
 
 <b>Difficulty:</b> Hard
 
@@ -90,7 +90,7 @@ Users have been asking for some features that they are missing from the Applicat
 ___
 ### Build Lightweight Bootable Live Image of ToxBlinkenwall (eWindow)
 <b>Brief Explanation:</b>
-An interesting usecase for ToxBlinkenwall (eWindow) is to take an old laptop and repurpose it into a dedicated Videochat station.
+An interesting use case for ToxBlinkenwall (eWindow) is to take an old laptop and repurpose it into a dedicated Videochat station.
 For this we need a live-booting USB image with the ToxBlinkenwall software on it.
 Ideally it would be based on a light-weight linux distribution, like Alpine Linux.
 
@@ -102,7 +102,7 @@ Ideally it would be based on a light-weight linux distribution, like Alpine Linu
 - Implement update mechanism, or self-hosting build capability
 
 
-<b>Knowledge Prerequisite:</b> Experience with Distro packaging, Linux boot process, Shell Scripting
+<b>Knowledge Prerequisites:</b> Experience with Distro packaging, Linux boot process, Shell Scripting
 
 <b>Difficulty:</b> Medium
 
@@ -125,7 +125,7 @@ We want to clean the Code, and fix some of the most common mistakes made.<br>
 - Write Documentation for Test Cases
 - Create Code Test and/or Unit tests
 
-<b>Knowledge Prerequisite:</b> Experience with C, Knowledge about Debugging (and Debugger Tools)
+<b>Knowledge Prerequisites:</b> Experience with C, Knowledge about Debugging (and Debugger Tools)
 
 <b>Difficulty:</b> Easy
 
