@@ -75,6 +75,8 @@ But we want even more.<br>
 Users have been asking for some features that they are missing from the Application.<br>
 
 <b>Expected Results:</b>
+- Perform usability testing with documented results.
+- Define UX improvements based on the test results.
 - Add Hardware Accelerated Video Encoding Support
 - Clean up the Source Code
 - Remove Duplication in the Source as much as possible
@@ -85,7 +87,7 @@ Users have been asking for some features that they are missing from the Applicat
 
 <b>Difficulty:</b> Hard
 
-<b>Mentor:</b> [zoff](https://github.com/zoff99)
+<b>Mentor:</b> [iphydf](https://github.com/iphydf), [zoff](https://github.com/zoff99)
 
 ___
 ### Build Lightweight Bootable Live Image of ToxBlinkenwall (eWindow)
@@ -119,6 +121,7 @@ This Process was great for fast progress, yet not so great for a clear and struc
 We want to clean the Code, and fix some of the most common mistakes made.<br>
 
 <b>Expected Results:</b>
+- Code follows common modularity guidelines and design principles.
 - C Code is purged of unused functions and variables
 - Most Common Bugs (SEGV) fixed
 - Most Common Causes for Crashes fixed
@@ -129,7 +132,7 @@ We want to clean the Code, and fix some of the most common mistakes made.<br>
 
 <b>Difficulty:</b> Easy
 
-<b>Mentor:</b> [strfry](https://github.com/strfry), [robinli](https://github.com/robinlinden)
+<b>Mentor:</b> [iphydf](https://github.com/iphydf), [strfry](https://github.com/strfry), [robinli](https://github.com/robinlinden)
 
 
 ___
