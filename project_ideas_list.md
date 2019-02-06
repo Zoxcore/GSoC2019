@@ -40,7 +40,7 @@ and handle multiple Audio PCM streams incoming.<br>
 
 <b>Difficulty:</b> Medium
 
-<b>Mentor:</b> strfry, zoff
+<b>Mentor:</b> [strfry](https://github.com/strfry), [zoff](https://github.com/zoff99)
 
 ___
 ### Rotational Diversity: Introduce Portrait-Mode Video
@@ -61,7 +61,7 @@ To solve this, the communication protocol must be enhanced to negotiate the peer
 
 <b>Difficulty:</b> Easy
 
-<b>Mentor:</b> strfry, zoff
+<b>Mentor:</b> [strfry](https://github.com/strfry), [zoff](https://github.com/zoff99)
 
 ___
 ### Improve User Experience in the Android Client (TRIfA)
@@ -85,7 +85,7 @@ Users have been asking for some features that they are missing from the Applicat
 
 <b>Difficulty:</b> Hard
 
-<b>Mentor:</b> zoff
+<b>Mentor:</b> [zoff](https://github.com/zoff99)
 
 ___
 ### Build Lightweight Bootable Live Image of ToxBlinkenwall (eWindow)
@@ -106,7 +106,7 @@ Ideally it would be based on a light-weight linux distribution, like Alpine Linu
 
 <b>Difficulty:</b> Medium
 
-<b>Mentor:</b> strfry
+<b>Mentor:</b> [strfry](https://github.com/strfry), [robinli](https://github.com/robinlinden)
 
 
 ___
@@ -129,7 +129,7 @@ We want to clean the Code, and fix some of the most common mistakes made.<br>
 
 <b>Difficulty:</b> Easy
 
-<b>Mentor:</b> strfry
+<b>Mentor:</b> [strfry](https://github.com/strfry), [robinli](https://github.com/robinlinden)
 
 
 ___
