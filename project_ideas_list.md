@@ -129,7 +129,7 @@ We want to clean the Code, and fix some of the most common mistakes made.<br>
 
 <b>Difficulty:</b> Easy
 
-<b>Mentor:</b> [strfry](https://github.com/strfry), [robinli](https://github.com/robinlinden)
+<b>Mentor:</b> [strfry](https://github.com/strfry), [robinli](https://github.com/robinlinden), [zugz](https://github.com/zugz)
 
 
 ___
